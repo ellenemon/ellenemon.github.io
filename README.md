@@ -19,7 +19,11 @@ I'm a **Graduate Student in Biostatistics** at the University of Washington, wit
 
 ### **Trends in Mental Health Comorbidities During Substance-Related Visits**  
 - Investigated comorbidity trends among adolescents using **generalized linear mixed models** and **interrupted time series analysis**.  
-- **https://github.com/SZ-yang/UW_Capstone_MentalHealthComorbidity(#)** | **Tech Used:** R  
+- **https://github.com/SZ-yang/UW_Capstone_MentalHealthComorbidity** | **Tech Used:** R
+
+### **Chutes and Ladders Board Game Demonstration**  
+- Developed an innovative R package simulating game
+- **https://github.com/ellenemon/ChutesAndLadders** | **Tech Used:** R  
 
 ---
 
