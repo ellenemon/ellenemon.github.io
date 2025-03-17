@@ -1,8 +1,32 @@
-# Plain Template
-We are using the template from https://github.com/MXHX7199/MXHX7199.github.io
+# Ellen Jiang's Data Science Portfolio  
 
-##Comments below from the author of the template:
+Welcome to my portfolio! This website showcases my projects and experience in **biostatistics, machine learning, and data analysis**.  
 
-If you are using it, I'd be happy to hear from you! You can drop me a line at ([link](https://mavroud.is))!
+📍 **Live Site:** [ellenjiang.github.io](https://ellenjiang.github.io/)  
 
-You should copy this repo to your github account, and then modify it with your info!
+---
+
+## 🔹 About Me  
+
+I'm a **Graduate Student in Biostatistics** at the University of Washington, with a background in **statistics and psychology**. My work focuses on **healthcare analytics, predictive modeling, and statistical research**.  
+
+🔹 **Technical Skills:** R, Python, SQL, Machine Learning, Data Visualization  
+🔹 **Interests:** Mental Health Reserach, AI in Medicine   
+
+---
+
+## 📌 Featured Projects  
+
+### **Trends in Mental Health Comorbidities During Substance-Related Visits**  
+- Investigated comorbidity trends among adolescents using **generalized linear mixed models** and **interrupted time series analysis**.  
+- **https://github.com/SZ-yang/UW_Capstone_MentalHealthComorbidity(#)** | **Tech Used:** R  
+
+---
+
+## 🚀 How to Use This Repository  
+
+If you'd like to run this project locally:  
+```sh
+git clone https://github.com/ellenjiang/ellenjiang.github.io.git  
+cd ellenjiang.github.io  
+
