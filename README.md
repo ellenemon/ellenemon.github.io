@@ -2,7 +2,7 @@
 
 Welcome to my portfolio! This website showcases my projects and experience in **biostatistics, machine learning, and data analysis**.  
 
-📍 **Live Site:** [ellenjiang.github.io](https://ellenjiang.github.io/)  
+📍 **Live Site:** [ellenemon.github.io](https://ellenemon.github.io/)  
 
 ---
 
